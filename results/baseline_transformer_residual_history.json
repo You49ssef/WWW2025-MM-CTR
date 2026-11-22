@@ -1,0 +1,47 @@
+[
+  {
+    "epoch": 1,
+    "architecture": "baseline_transformer_residual",
+    "train_loss": 0.4770775648951531,
+    "auc": 0.644761163508856,
+    "logloss": 0.47983506321907043,
+    "rows": 128000,
+    "seconds": 179.30822157859802
+  },
+  {
+    "epoch": 2,
+    "architecture": "baseline_transformer_residual",
+    "train_loss": 0.47351052090525625,
+    "auc": 0.6454344741934007,
+    "logloss": 0.47953465580940247,
+    "rows": 128000,
+    "seconds": 113.81261467933655
+  },
+  {
+    "epoch": 3,
+    "architecture": "baseline_transformer_residual",
+    "train_loss": 0.4772123593091965,
+    "auc": 0.646265100690578,
+    "logloss": 0.4793596863746643,
+    "rows": 128000,
+    "seconds": 104.37070488929749
+  },
+  {
+    "epoch": 4,
+    "architecture": "baseline_transformer_residual",
+    "train_loss": 0.4765039272606373,
+    "auc": 0.6473156154636751,
+    "logloss": 0.47897619009017944,
+    "rows": 128000,
+    "seconds": 133.55257081985474
+  },
+  {
+    "epoch": 5,
+    "architecture": "baseline_transformer_residual",
+    "train_loss": 0.47691990062594414,
+    "auc": 0.6483543205896685,
+    "logloss": 0.4786170423030853,
+    "rows": 128000,
+    "seconds": 151.57488441467285
+  }
+]

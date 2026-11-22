@@ -1,0 +1,11 @@
+[
+  {
+    "epoch": 1,
+    "architecture": "baseline_gru_residual",
+    "train_loss": 0.47569920402765276,
+    "auc": 0.6447689390184359,
+    "logloss": 0.4797440767288208,
+    "rows": 128000,
+    "seconds": 151.13017773628235
+  }
+]

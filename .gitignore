@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+# Dataset files
+data/
+*.parquet
+
+# Large generated artifacts and model weights
+src/artifacts/cache/
+src/artifacts/checkpoints/
+*.pt
+*.pth
+*_test_probabilities.npy

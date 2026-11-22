@@ -1,0 +1,362 @@
+[
+  {
+    "epoch": 1,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4765145486295223,
+    "auc": 0.6447746239979075,
+    "logloss": 0.4797478914260864,
+    "rows": 128000,
+    "seconds": 199.70239067077637
+  },
+  {
+    "epoch": 2,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.48023261439800263,
+    "auc": 0.6447908989123547,
+    "logloss": 0.47973379492759705,
+    "rows": 128000,
+    "seconds": 362.92743468284607
+  },
+  {
+    "epoch": 3,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4778762328922749,
+    "auc": 0.644958030710528,
+    "logloss": 0.47968804836273193,
+    "rows": 128000,
+    "seconds": 127.75428533554077
+  },
+  {
+    "epoch": 4,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47869964545965193,
+    "auc": 0.6450284898068424,
+    "logloss": 0.4796563684940338,
+    "rows": 128000,
+    "seconds": 103.31460571289062
+  },
+  {
+    "epoch": 5,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4783959318101406,
+    "auc": 0.6449832066239347,
+    "logloss": 0.4796631634235382,
+    "rows": 128000,
+    "seconds": 96.02673959732056
+  },
+  {
+    "epoch": 5,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4764994748234749,
+    "auc": 0.6449552447679401,
+    "logloss": 0.4796788692474365,
+    "rows": 128000,
+    "seconds": 138.269122838974
+  },
+  {
+    "epoch": 6,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4801148970723152,
+    "auc": 0.645039895376045,
+    "logloss": 0.47965383529663086,
+    "rows": 128000,
+    "seconds": 119.69667553901672
+  },
+  {
+    "epoch": 7,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4777898460030556,
+    "auc": 0.6449859090619493,
+    "logloss": 0.4796842038631439,
+    "rows": 128000,
+    "seconds": 108.67285752296448
+  },
+  {
+    "epoch": 8,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47860929092764853,
+    "auc": 0.6450444618855966,
+    "logloss": 0.47965672612190247,
+    "rows": 128000,
+    "seconds": 102.08355832099915
+  },
+  {
+    "epoch": 9,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47839228495955466,
+    "auc": 0.645003930579974,
+    "logloss": 0.47965648770332336,
+    "rows": 128000,
+    "seconds": 97.03444576263428
+  },
+  {
+    "epoch": 10,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4764960684776306,
+    "auc": 0.6450007239827608,
+    "logloss": 0.4796634912490845,
+    "rows": 128000,
+    "seconds": 79.94308710098267
+  },
+  {
+    "epoch": 11,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4800686095058918,
+    "auc": 0.6450581316085449,
+    "logloss": 0.47965186834335327,
+    "rows": 128000,
+    "seconds": 120.0823655128479
+  },
+  {
+    "epoch": 12,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47776873961091043,
+    "auc": 0.6449458674716372,
+    "logloss": 0.47970086336135864,
+    "rows": 128000,
+    "seconds": 109.36722826957703
+  },
+  {
+    "epoch": 13,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4785700295865536,
+    "auc": 0.6449920795450556,
+    "logloss": 0.47967642545700073,
+    "rows": 128000,
+    "seconds": 99.7510302066803
+  },
+  {
+    "epoch": 14,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4783957751393318,
+    "auc": 0.6450178844020575,
+    "logloss": 0.4796532392501831,
+    "rows": 128000,
+    "seconds": 95.19561266899109
+  },
+  {
+    "epoch": 15,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4798309672772884,
+    "auc": 0.6451035342302603,
+    "logloss": 0.4796362817287445,
+    "rows": 128000,
+    "seconds": 91.30602192878723
+  },
+  {
+    "epoch": 16,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47819242370128634,
+    "auc": 0.6450636346760169,
+    "logloss": 0.47964340448379517,
+    "rows": 128000,
+    "seconds": 86.50114941596985
+  },
+  {
+    "epoch": 17,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4775647259056568,
+    "auc": 0.6451252133997842,
+    "logloss": 0.4796292185783386,
+    "rows": 128000,
+    "seconds": 90.17581701278687
+  },
+  {
+    "epoch": 18,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4778553689718246,
+    "auc": 0.6450537483608892,
+    "logloss": 0.4796430468559265,
+    "rows": 128000,
+    "seconds": 84.07919907569885
+  },
+  {
+    "epoch": 19,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.48048946052789687,
+    "auc": 0.6451195668113581,
+    "logloss": 0.4796234369277954,
+    "rows": 128000,
+    "seconds": 85.44106078147888
+  },
+  {
+    "epoch": 20,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.478094126611948,
+    "auc": 0.6450532292988373,
+    "logloss": 0.47963908314704895,
+    "rows": 128000,
+    "seconds": 81.89593386650085
+  },
+  {
+    "epoch": 21,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4771549948453903,
+    "auc": 0.645112462983084,
+    "logloss": 0.47962647676467896,
+    "rows": 128000,
+    "seconds": 84.77028584480286
+  },
+  {
+    "epoch": 22,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47545821803808214,
+    "auc": 0.6451009697786261,
+    "logloss": 0.47963064908981323,
+    "rows": 128000,
+    "seconds": 83.40150713920593
+  },
+  {
+    "epoch": 23,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47943050184845926,
+    "auc": 0.6451580238936173,
+    "logloss": 0.4796137511730194,
+    "rows": 128000,
+    "seconds": 80.09281253814697
+  },
+  {
+    "epoch": 24,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4786375037431717,
+    "auc": 0.6450682731890268,
+    "logloss": 0.47963517904281616,
+    "rows": 128000,
+    "seconds": 84.13588523864746
+  },
+  {
+    "epoch": 25,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4802156058847904,
+    "auc": 0.6451386241586631,
+    "logloss": 0.4796115756034851,
+    "rows": 128000,
+    "seconds": 82.63588809967041
+  },
+  {
+    "epoch": 26,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4791657610833645,
+    "auc": 0.6451788207710444,
+    "logloss": 0.4796072542667389,
+    "rows": 128000,
+    "seconds": 79.35776448249817
+  },
+  {
+    "epoch": 27,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.48165111437439917,
+    "auc": 0.6450748691053908,
+    "logloss": 0.47963017225265503,
+    "rows": 128000,
+    "seconds": 82.85522127151489
+  },
+  {
+    "epoch": 28,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4764566982388496,
+    "auc": 0.6451745985929923,
+    "logloss": 0.4796113669872284,
+    "rows": 128000,
+    "seconds": 82.32698273658752
+  },
+  {
+    "epoch": 29,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47481057345867156,
+    "auc": 0.6452038585360835,
+    "logloss": 0.4796047806739807,
+    "rows": 128000,
+    "seconds": 82.42110300064087
+  },
+  {
+    "epoch": 30,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47596107465028764,
+    "auc": 0.6451800422380376,
+    "logloss": 0.4796089231967926,
+    "rows": 128000,
+    "seconds": 84.1094331741333
+  },
+  {
+    "epoch": 31,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4772400646209717,
+    "auc": 0.6450850750219213,
+    "logloss": 0.4796413779258728,
+    "rows": 128000,
+    "seconds": 82.83312106132507
+  },
+  {
+    "epoch": 32,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47865236762166025,
+    "auc": 0.6452554565329893,
+    "logloss": 0.4795868396759033,
+    "rows": 128000,
+    "seconds": 81.88354325294495
+  },
+  {
+    "epoch": 33,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.48148437616229056,
+    "auc": 0.6451902965348446,
+    "logloss": 0.47959765791893005,
+    "rows": 128000,
+    "seconds": 72.34544944763184
+  },
+  {
+    "epoch": 34,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4792190058529377,
+    "auc": 0.645255111796521,
+    "logloss": 0.47958695888519287,
+    "rows": 128000,
+    "seconds": 72.34251999855042
+  },
+  {
+    "epoch": 35,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47854111218452455,
+    "auc": 0.6452377151184073,
+    "logloss": 0.47959059476852417,
+    "rows": 128000,
+    "seconds": 72.80438828468323
+  },
+  {
+    "epoch": 36,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47995235791802404,
+    "auc": 0.645317782100278,
+    "logloss": 0.4795686900615692,
+    "rows": 128000,
+    "seconds": 75.30802536010742
+  },
+  {
+    "epoch": 37,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.47788944652676585,
+    "auc": 0.6453385186103511,
+    "logloss": 0.4795595109462738,
+    "rows": 128000,
+    "seconds": 74.01762294769287
+  },
+  {
+    "epoch": 38,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4766688979566097,
+    "auc": 0.6453383249542554,
+    "logloss": 0.4795612096786499,
+    "rows": 128000,
+    "seconds": 75.13010263442993
+  },
+  {
+    "epoch": 39,
+    "architecture": "baseline_gru_lstm_residual",
+    "train_loss": 0.4778545064330101,
+    "auc": 0.6453337992385642,
+    "logloss": 0.4795624315738678,
+    "rows": 128000,
+    "seconds": 73.75664973258972
+  }
+]

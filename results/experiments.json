@@ -1,0 +1,50 @@
+[
+  {
+    "experiment": "E1_baseline_smoke",
+    "architecture": "baseline",
+    "steps": 200,
+    "auc": 0.531474160697105,
+    "logloss": 0.499415725469589,
+    "accuracy": 0.8
+  },
+  {
+    "experiment": "E1_baseline_full",
+    "architecture": "baseline",
+    "steps": 12000,
+    "auc": 0.6445615988637855,
+    "logloss": 0.47981178760528564,
+    "accuracy": 0.7999235788607372
+  },
+  {
+    "experiment": "E2_gru_smoke",
+    "architecture": "gru",
+    "steps": 100,
+    "auc": 0.5187894590723439,
+    "logloss": 0.5023441910743713,
+    "accuracy": 0.8
+  },
+  {
+    "experiment": "E2_gru_partial",
+    "architecture": "gru",
+    "steps": 1000,
+    "auc": 0.5398430915179783,
+    "logloss": 0.5017349720001221,
+    "accuracy": 0.8
+  },
+  {
+    "experiment": "E3_transformer_smoke",
+    "architecture": "transformer",
+    "steps": 100,
+    "auc": 0.5151643044591313,
+    "logloss": 0.5019369721412659,
+    "accuracy": 0.8
+  },
+  {
+    "experiment": "E3_transformer_partial",
+    "architecture": "transformer",
+    "steps": 500,
+    "auc": 0.5348831332821569,
+    "logloss": 0.4993314146995544,
+    "accuracy": 0.8
+  }
+]
